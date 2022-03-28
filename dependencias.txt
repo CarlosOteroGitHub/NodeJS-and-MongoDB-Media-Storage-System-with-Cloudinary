@@ -1,0 +1,31 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° HTML.
+
+° Bootstrap.
+
+° JavaScript.
+
+° ExpressJS.
+
+° MongoDB.
+
+° Mongoose.
+
+° JSON.
+
+° NodeJS.
+
+° NPM.
+
+° Nodemon.
+
+° Postman.
+
+° Cloudinary.
